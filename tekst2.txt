@@ -1,5 +1,1 @@
-Eve go tekst2 so 2 broj
-
-Eve go modificiran tekst2
-
-nova promena
+promena
