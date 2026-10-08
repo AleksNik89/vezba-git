@@ -1,1 +1,4 @@
 eve go tekst3 so 3
+
+eve go modificiran tekst3
+
